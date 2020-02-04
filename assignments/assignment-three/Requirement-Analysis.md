@@ -28,14 +28,22 @@ Users
       -assignment ID
       -TA ID
       -grade
+      -student ID
     -Submit grades for assignments
       -assignment ID
       -TA ID
       -grade
-  -Students
+      -student ID
+      
+  -Student
     -Submit and resubmit assignments
+      -assignment ID
+      -student ID
     -Check assignments when posted
+      -assignment ID
     -See grades for assignments
+      -assignment ID
+      -grade
     
     
 System constraints and requirements
