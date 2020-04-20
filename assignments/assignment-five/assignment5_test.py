@@ -109,7 +109,7 @@ def test_add_course(grading_system):
 	grading_system.usr.add_course("cloud_computing")
 	grading_system.reload_data()
 	assert "cloud_computing" in grading_system.usr.courses
-	
+
 @pytest.fixture
 def grading_system():
     gradingSystem = System.System()
