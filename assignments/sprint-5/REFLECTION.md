@@ -1,0 +1,1 @@
+The assignment was fairly straight forward and I did not have many problems with it. One problem I did face though was that some of the commands given were not the correct commands for windows and I had to look up the correct commands. Another problem I had was setting the global variables so again I had to google what the correct commands were to set the variables.
