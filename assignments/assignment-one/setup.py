@@ -71,7 +71,7 @@ setup(
         'ipython-genutils==0.2.0',
         'itsdangerous==1.1.0',
         'jedi==0.15.1',
-        'Jinja2==2.10.3',
+        'Jinja2==2.11.3',
         'lockfile==0.12.2',
         'Mako==1.1.0',
         'MarkupSafe==1.1.1',
