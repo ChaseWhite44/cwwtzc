@@ -89,7 +89,7 @@ setup(
         'ptyprocess==0.6.0',
         'py==1.8.0',
         'PyGithub==1.44',
-        'Pygments==2.4.2',
+        'Pygments==2.7.4',
         'PyJWT==1.7.1',
         'PyMySQL==0.9.3',
         'pyparsing==2.4.2',
