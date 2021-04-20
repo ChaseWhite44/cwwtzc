@@ -87,7 +87,7 @@ setup(
         'protobuf==3.10.0',
         'psycopg2-binary==2.8.4',
         'ptyprocess==0.6.0',
-        'py==1.8.0',
+        'py==1.10.0',
         'PyGithub==1.44',
         'Pygments==2.4.2',
         'PyJWT==1.7.1',
