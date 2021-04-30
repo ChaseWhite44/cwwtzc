@@ -115,7 +115,7 @@ setup(
         'SQLAlchemy==1.3.10',
         'tldextract==2.2.2',
         'traitlets==4.3.3',
-        'urllib3==1.25.6',
+        'urllib3==1.25.8',
         'wcwidth==0.1.7',
         'Werkzeug==0.16.0',
         'wrapt==1.11.2',
