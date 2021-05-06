@@ -56,7 +56,7 @@ setup(
         'Deprecated==1.2.6',
         'docutils==0.15.2',
         'Flask==1.1.1',
-        'Flask-Cors==3.0.8',
+        'Flask-Cors==3.0.9',
         'Flask-Login==0.4.1',
         'Flask-WTF==0.14.2',
         'gitdb2==2.0.6',
