@@ -42,7 +42,7 @@ setup(
         'appnope==0.1.0',
         'atomicwrites==1.3.0',
         'attrs==19.3.0',
-        'Babel==2.7.0',
+        'Babel==2.9.1',
         'backcall==0.1.0',
         'Beaker==1.11.0',
         'beautifulsoup4==4.8.1',
