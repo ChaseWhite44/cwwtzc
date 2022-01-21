@@ -67,7 +67,7 @@ setup(
         'imagesize==1.1.0',
         'importlib-metadata==0.23',
         'ipdb==0.12.2',
-        'ipython==7.9.0',
+        'ipython==7.16.3',
         'ipython-genutils==0.2.0',
         'itsdangerous==1.1.0',
         'jedi==0.15.1',
