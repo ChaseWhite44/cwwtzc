@@ -90,7 +90,7 @@ setup(
         'py==1.8.0',
         'PyGithub==1.44',
         'Pygments==2.4.2',
-        'PyJWT==1.7.1',
+        'PyJWT==2.4.0',
         'PyMySQL==0.9.3',
         'pyparsing==2.4.2',
         'pytest==5.2.2',
