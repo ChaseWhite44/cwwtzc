@@ -76,7 +76,7 @@ setup(
         'Mako==1.1.0',
         'MarkupSafe==1.1.1',
         'more-itertools==7.2.0',
-        'numpy==1.17.3',
+        'numpy==1.22.0',
         'packaging==19.2',
         'pandas==0.25.2',
         'parso==0.5.1',
