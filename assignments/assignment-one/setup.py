@@ -73,7 +73,7 @@ setup(
         'jedi==0.15.1',
         'Jinja2==2.10.3',
         'lockfile==0.12.2',
-        'Mako==1.1.0',
+        'Mako==1.2.2',
         'MarkupSafe==1.1.1',
         'more-itertools==7.2.0',
         'numpy==1.17.3',
